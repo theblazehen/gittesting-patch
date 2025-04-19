@@ -1,6 +1,4 @@
-# gittesting-upstream
+# gittesting-patch
 Changing upstream
 
-Another change in upstream
-
-Adding a line here
+We're just testing changes here
